@@ -3,7 +3,7 @@
 
 Loops, working with arrays.
 
-**Technical task:**
+**Task:**
 
 Write a data parser. The task is taken from a real project.
 You receive data from an external device in the string format:
